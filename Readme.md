@@ -17,9 +17,13 @@ Se o input for 30 você retornará: “Ops...isso é muito pesada para eu proces
 L”
 
 INFORMAÇÕES DE ACESSO:
-Para acesso por favor usar o usuario: ronaldo@arbyte.com.br e a senha: ronaldo
+
+usuario: ronaldo@arbyte.com.br
+senha: ronaldo
+
 Arbyte é a instituição de ensino em que estudo.
 
-NODE MODULES e INICIAR A APLICAÇÃO
-Para instalar a pasta node_modules basta abrir o terminal e rodar o comando "npm install -y".
-Para subir a aplicação deve-se inicializa-la também, favor rodar o comando "npm run dev" em seu terminal.
+
+INICIAR A APLICAÇÃO
+
+Para iniciar o projeto, rode o npm install em seguida o npm start.
